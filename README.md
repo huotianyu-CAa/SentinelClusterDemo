@@ -12,6 +12,10 @@ sentinel集群流控demo，包含token-client和token-server，基于nacos数据
 3、在sentinelboard中配置token-client集群流控节点信息；配置token-client流控规则</br>
 4、测试集群流控是否生效</br>
 
+# TODO
+1、TestService项目接口返回异常修复</br>
+2、集群流控，token-server包含的token-client节点信息没有持久化到nacos，cluster-server-transport-config</br>
+
 <img width="1783" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/d0715667-ac03-481f-9690-d4bda772ba44">
 <img width="1780" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/46b17242-d2a8-4382-80bd-7f74a67fa297">
 
