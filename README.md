@@ -2,15 +2,15 @@
 sentinel集群流控demo，包含token-client和token-server，基于nacos数据源实现配置持久化，基于zookeeper实现token-server高可用选举
 
 # 使用前提环境：
-1、确保sentinelboard项目已完成改造，即可以从nacos读取和拉取配置\n
-2、nacos配置中心\n
-3、zookeeper中间件\n
+1、确保sentinelboard项目已完成改造，即可以从nacos读取和拉取配置</br>
+2、nacos配置中心</br>
+3、zookeeper中间件</br>
 
 # 启动流程：
-1、启动多个TokenServer项目实例，并在配置文件中配置端口，项目启动后会选举leader\n
-2、启动多个TestService（即token-client）项目实例，并在配置文件中配置端口\n
-3、在sentinelboard中配置token-client集群流控节点信息；配置token-client流控规则\n
-4、测试集群流控是否生效\n
+1、启动多个TokenServer项目实例，并在配置文件中配置端口，项目启动后会选举leader</br>
+2、启动多个TestService（即token-client）项目实例，并在配置文件中配置端口</br>
+3、在sentinelboard中配置token-client集群流控节点信息；配置token-client流控规则</br>
+4、测试集群流控是否生效</br>
 
 <img width="1783" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/d0715667-ac03-481f-9690-d4bda772ba44">
 <img width="1780" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/46b17242-d2a8-4382-80bd-7f74a67fa297">
