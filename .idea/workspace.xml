@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d6a45c9-263b-4e62-95f2-de4f7af37e26" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/developTool/maven-repository" />
+        <option name="mavenHome" value="$USER_HOME$/developTool/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/developTool/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ThLtBqKlTSPWuycMP70MZOD5ai" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/huotianyu/code/test-project/SentinelTest1/TokenServer/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "2e3679ac1474ffb4de6d7d42d1589475",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TokenServer/src/main/resources" />
+      <recent name="$PROJECT_DIR$/rule-manager/src/main/java/com/example" />
+      <recent name="$PROJECT_DIR$/rule-manager/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.tokenserver" />
+      <recent name="com.example.testservice.init" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TokenServerApplication">
+    <configuration name="SentinelTest1Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sentineltest1.SentinelTest1Application" />
+      <module name="SentinelTest1" />
+      <option name="VM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=localhost:9092" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentinelTest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SentinelTest1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <option name="VM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=10.98.143.32:9092" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
+      <module name="TestService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.testservice.TestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
+      <module name="TokenServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.TokenServerApplication" />
+      <option name="VM_PARAMETERS" value="-Dcsp.sentinel.log.use.pid=true -Dcsp.sentinel.dashboard.server=10.98.143.32:9092 -Dcsp.sentinel.api.port=8719 -Dproject.name=sentinle-token-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SentinelTest1Application" />
+      <item itemvalue="Spring Boot.TokenServerApplication" />
+      <item itemvalue="Spring Boot.TestServiceApplication" />
+      <item itemvalue="Spring Boot.SentinelTest1Application" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d6a45c9-263b-4e62-95f2-de4f7af37e26" name="Changes" comment="" />
+      <created>1691490579391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691490579391</updated>
+      <workItem from="1691490580746" duration="7038000" />
+      <workItem from="1691900121329" duration="1080000" />
+      <workItem from="1691903474306" duration="549000" />
+      <workItem from="1692005658249" duration="511000" />
+      <workItem from="1692079510565" duration="574000" />
+      <workItem from="1692346790386" duration="163000" />
+      <workItem from="1692613172160" duration="2209000" />
+      <workItem from="1692694258760" duration="174000" />
+      <workItem from="1692694444229" duration="8263000" />
+      <workItem from="1693203539435" duration="572000" />
+      <workItem from="1693289773545" duration="308000" />
+      <workItem from="1693290456197" duration="1208000" />
+      <workItem from="1693880005753" duration="4609000" />
+      <workItem from="1695115874447" duration="1434000" />
+      <workItem from="1695278453243" duration="1523000" />
+      <workItem from="1695292850711" duration="2662000" />
+      <workItem from="1695627312384" duration="590000" />
+      <workItem from="1695629832601" duration="5110000" />
+      <workItem from="1696748538914" duration="7181000" />
+      <workItem from="1696909815821" duration="2136000" />
+      <workItem from="1697010383136" duration="707000" />
+      <workItem from="1697013579309" duration="3016000" />
+      <workItem from="1697445742811" duration="3946000" />
+      <workItem from="1698743119597" duration="975000" />
+      <workItem from="1698745430533" duration="3188000" />
+      <workItem from="1698921651160" duration="695000" />
+      <workItem from="1699434691266" duration="4978000" />
+      <workItem from="1699499181302" duration="575000" />
+      <workItem from="1699499783154" duration="4061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestService/src/main/java/com/example/testservice/init/DemoClusterInitFunc.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestService/src/main/java/com/example/testservice/init/DemoClusterInitFunc.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestService/src/main/java/com/example/testservice/init/DemoClusterInitFunc.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+server:
+  port: 9095
+spring:
+  application:
+    name: sentinelTestService
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 10.98.143.32:9092
+        port: 8719
+      datasource:
+        flow:
+          nacos:
+            server-addr: 10.98.143.32:8848
+            namespace: sentinelTest
+            group-id: SENTINEL_GROUP
+            data-id: ${spring.application.name}-flow-rules
+            rule-type: flow
+            data-type: json
+      eager: true
+      log:
+        switch-pid: true
+  main:
+    allow-circular-references: true
