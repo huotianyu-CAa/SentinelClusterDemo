@@ -14,7 +14,11 @@ sentinel集群流控demo，包含token-client和token-server，基于nacos数据
 
 <img width="1783" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/d0715667-ac03-481f-9690-d4bda772ba44">
 <img width="1780" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/46b17242-d2a8-4382-80bd-7f74a67fa297">
+
+配置流控规则
 <img width="1784" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/bc4ea2e2-703f-4723-a93b-1dc4e7352618">
+
+nacos配置
 <img width="1783" alt="image" src="https://github.com/huotianyu-CAa/SentinelClusterDemo/assets/56818177/7f29b66c-5756-43c2-ab8a-a76c8f787cd1">
 
 流控测试
